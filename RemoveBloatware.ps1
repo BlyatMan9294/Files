@@ -4,7 +4,6 @@ Set-ExecutionPolicy -Scope CurrentUser
 $AppsList = @(
     "Microsoft.XboxApp",
     "Microsoft.Xbox.TCUI",
-    "Microsoft.XboxGameCallableUI",
     "Microsoft.XboxGameOverlay",
     "Microsoft.XboxGamingOverlay",
     "Microsoft.XboxIdentityProvider",
